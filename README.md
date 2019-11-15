@@ -1,6 +1,9 @@
 # Ultracortex
 
-Ultracortex Mark Numbers (aka versions)
+## NXT Fork
+Within this fork we intend to capture various files to support the printing of headsets. This includes support structure models, slicer configurations, and GCODE. Some of these files are inherantly unique to specific printers. **Please only put printer configurations and GCODE that is known to work (successfully printed) on the master branch.**
+
+## Ultracortex Mark Numbers (aka versions)
 
 * [Mark 1](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_1) - designed, printed, assembled, & modeled (April 2015)
 * [Mark 2](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_2) - designed, printed, assembled, & tested (May-June 2015)
@@ -11,7 +14,7 @@ Ultracortex Mark Numbers (aka versions)
 
 The Ultracortex is an open-source, 3D-printable headset intended to work with the [OpenBCI system](http://openbci.com/). It is capable of recording research-grade brain activity (EEG), muscle activity (EMG), and heart activity (ECG). The Ultracortex is under constant iteration. If you print/assemble your own Ultracortex, we would love to hear your feedback. Send us an email at [contact@openbci.com](mailto:contact@openbci.com) or Tweet at us ([@Ultracortex](https://twitter.com/Ultracortex) & [@OpenBCI](https://twitter.com/OpenBCI))!
 
-Designers & Engineers:
+## Designers & Engineers:
 
 * [Aaron Trocola (aka Threeform)](http://threeformfashion.com/)
 * [Conor Russomanno](https://twitter.com/russomanno15)
